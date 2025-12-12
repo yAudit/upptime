@@ -9,7 +9,7 @@ sites:
     url: https://blog.yaudit.dev
   - name: yAudit Reports Site
     url: https://reports.yaudit.dev
- - name: yAudit Research Site
+  - name: yAudit Research Site
     url: https://research.yaudit.dev
   - name: yAudit Multisig Safe Site
     url: https://safe.yaudit.dev
