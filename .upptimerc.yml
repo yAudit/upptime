@@ -3,6 +3,16 @@ owner: electisec # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
+  - name: yAudit Main Site
+    url: https://www.yaudit.dev
+  - name: yAudit Blog Site
+    url: https://blog.yaudit.dev
+  - name: yAudit Reports Site
+    url: https://reports.yaudit.dev
+ - name: yAudit Research Site
+    url: https://research.yaudit.dev
+  - name: yAudit Multisig Safe Site
+    url: https://safe.yaudit.dev
   - name: Electisec Main Site
     url: https://www.electisec.com
   - name: Electisec Blog Site
