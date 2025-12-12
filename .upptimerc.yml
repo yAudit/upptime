@@ -19,12 +19,6 @@ sites:
     url: https://blog.electisec.com
   - name: Electisec Reports Site
     url: https://reports.electisec.com
-  - name: electisec.tech
-    url: https://electisec.tech
-  - name: blog.electisec.tech
-    url: https://blog.electisec.tech
-  - name: reports.electisec.tech
-    url: https://reports.electisec.tech
   - name: yacademy.dev
     url: https://yacademy.dev
   - name: blog.yacademy.dev
