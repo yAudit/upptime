@@ -13,12 +13,6 @@ sites:
     url: https://research.yaudit.dev
   - name: yAudit Multisig Safe Site
     url: https://safe.yaudit.dev
-  - name: Electisec Main Site
-    url: https://www.electisec.com
-  - name: Electisec Blog Site
-    url: https://blog.electisec.com
-  - name: Electisec Reports Site
-    url: https://reports.electisec.com
   - name: yacademy.dev
     url: https://yacademy.dev
   - name: blog.yacademy.dev
